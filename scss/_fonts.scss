@@ -1,0 +1,5 @@
+@import "_mixins/font-face";
+
+@include font-face("Brown", "../fonts/Brown/Brown-Regular");
+@include font-face("Brown", "../fonts/Brown/Brown-Bold", 700);
+@include font-face("Brown", "../fonts/Brown/Brown-Light", 300);
